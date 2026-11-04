@@ -1,6 +1,6 @@
 # BlockTrain — code for the manuscript
 
-Code for *BlockTrain: A Modular Uncertainty-Aware Framework for Reliable Multivariate Wearable Time-Series Analysis under Controlled Data-Quality Corruption* (Vo Thanh Ha, Nguyen Tam Thanh, Vo Quang Vinh, Nguyen Duy Trung).
+Code for *BlockTrain: A Modular Framework for Testing Uncertainty-Aware Temporal Attention on Multivariate Wearable Time Series under Controlled Data-Quality Corruption* (Vo Thanh Ha, Nguyen Tam Thanh, Vo Quang Vinh, Nguyen Duy Trung).
 
 The scripts implement the protocol of Sections 3–4 and regenerate every result table and figure of Section 5 from saved per-seed predictions.
 
