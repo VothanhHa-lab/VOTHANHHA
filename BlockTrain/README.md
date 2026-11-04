@@ -39,3 +39,7 @@ python selective.py --runs runs/main && python make_selective_tex.py
 ## Data
 
 The raw wearable data contain physiological records of human participants and are not included. See the Data availability statement of the article.
+
+## Licence
+
+MIT (see `LICENSE`).
